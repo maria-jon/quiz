@@ -2,12 +2,12 @@
 
 TypeScript quiz with 20 questions about geography.
 
-[Link to live version](https://medieinstitutet.github.io/fed24d-js-intro-inl-2-quiz-mulberry-beauty/)
+[Link to live version](https://maria-jon.github.io/quiz/)
 
 ## Table of Contents
 
 - [Features](#features)
-- [Tech](#tech)
+- [Tech stack](#tech-stack)
 - [Installation](#installation)
 - [Screenshots](#screenshots)
   - [Live version](#live-version)
@@ -28,6 +28,8 @@ TypeScript quiz with 20 questions about geography.
 - After finished game, user is able to play again, and will get the remaining 10 questions
 
 ## Tech Stack
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 
 - Vanilla TypeScript version 5.6.2
 - Sass version 1.83.0
